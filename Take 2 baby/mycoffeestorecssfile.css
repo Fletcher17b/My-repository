@@ -1,0 +1,178 @@
+body {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #F8EEE3;
+    display: block;
+}
+
+#headername {
+    font-size: 40px;
+    color:#603813 ;
+    padding: 15px;
+    margin: 8px 0px;
+    font-weight: bold;
+    float: center;
+
+}
+
+
+#welcometext {
+    float:left; 
+    width: 85%;
+    font-size: 12px;    
+    margin-top: 20px;
+    margin-bottom: 20px; 
+    column-count: 2;
+}
+
+#welcometexttittle {
+    font-size: 30px;
+    padding: 5px;
+    width: 85%;
+}
+
+#welcometextbody {
+    font-size: 20px;
+    width: 100%;
+    float: left; 
+}
+
+#welcomeimage {
+ width: 85% ;
+ float: left;
+}
+
+
+
+
+.searchbox {
+    float: right;
+    width: 150px ;
+    padding: 5px;
+    margin:10 ;
+    }
+    
+.object1 > img {
+        height: 60px;
+        width: 80px;
+        float: left;
+        margin-right: 10px;
+    }
+    
+.foto-comporg1 {
+        width: 100px;
+        height: 100px ;
+        }
+.foto-comporg2 {
+        width: 100px;
+        height: 100px ;
+    }
+
+.foto-comporg3 {
+        width: 100px;
+        height: 100px ;
+    }
+
+
+#events {
+    float: right;
+    width: 15%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+#events > header {
+    margin-left: 10px;
+    color: #603813;
+    font-size: 15px;
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+
+
+#bestsellers { 
+    height: 100%;
+    width: 700px;
+    float: left;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    
+}
+
+#bestsellers > header {
+        color: #e92424;
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+.tipodecomporg1 { 
+    width: 200px;
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+
+.tipodecomporg2 { 
+    width: 200px;
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+
+.tipodecomporg3 { 
+    width: 200px;
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+
+
+footer {
+    clear: both;
+    width: 100%;
+    margin:20px 0px 20px;
+    padding:5px;
+}
+
+nav {
+    height: 40px;
+    width: 1050px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    padding-left: 5px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0px;
+}
+
+nav ul li {
+    display: block;
+}
+
+.navlink {
+    height: 35px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 18px;
+    float: left;
+    padding-top: 12px;
+    color: white;
+    text-decoration: none;
+}
+
+.backgroundgradient { 
+    background: linear-gradient(to right, #603813, #341c05);
+}
+
+.addtoqueue {
+ border-radius: 8px;
+ color: white ;
+ background-color: #603813;
+ border: 1px solid black; 
+ width: 90px;
+}
+
